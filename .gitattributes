@@ -1,0 +1,9 @@
+# Normalize text to LF in the repository and working tree (containers and CI run on Linux).
+* text=auto eol=lf
+
+# Binary documents: never convert line endings.
+*.pdf binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.ico binary
