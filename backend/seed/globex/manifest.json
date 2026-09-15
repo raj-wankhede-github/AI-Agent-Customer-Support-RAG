@@ -1,0 +1,13 @@
+{
+  "company": "globex",
+  "documents": [
+    {
+      "file": "globex-shipping-and-warranty.md",
+      "title": "Globex Shipping and Warranty",
+      "authority": "OFFICIAL_POLICY",
+      "category": "shipping",
+      "locale": "en-US",
+      "effective_date": "2026-01-01"
+    }
+  ]
+}

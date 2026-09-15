@@ -1,0 +1,21 @@
+SUPPORT CONTACT POLICY
+
+Effective date: 2026-02-01
+This policy describes how customers can reach Acme Support. All content is fictional.
+
+SUPPORT HOURS
+Acme Support is available Monday to Friday from 8:00 a.m. to 8:00 p.m. Eastern Time, and Saturday from 9:00 a.m. to 5:00 p.m. Eastern Time. Support is closed on Sundays and US public holidays.
+
+CONTACT CHANNELS
+- Live chat: available on acme.example during support hours.
+- Email: support@acme.example
+- Phone: 1-800-555-0199 during support hours.
+
+RESPONSE TIMES
+We respond to email within 1 business day. Live chat requests are typically answered within 5 minutes during support hours.
+
+SECURITY CONCERNS
+If you believe your account has been compromised, email security@acme.example. The security team monitors this address 24 hours a day, 7 days a week.
+
+WHAT WE WILL NEVER ASK FOR
+Acme Support will never ask for your full password or your full payment card number by email, chat or phone.

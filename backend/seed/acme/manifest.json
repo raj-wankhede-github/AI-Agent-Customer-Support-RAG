@@ -1,0 +1,45 @@
+{
+  "company": "acme",
+  "documents": [
+    {
+      "file": "shipping-policy.pdf",
+      "title": "Shipping Policy",
+      "authority": "OFFICIAL_POLICY",
+      "category": "shipping",
+      "locale": "en-US",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "file": "refund-policy.md",
+      "title": "Refund and Returns Policy",
+      "authority": "OFFICIAL_POLICY",
+      "category": "returns",
+      "locale": "en-US",
+      "effective_date": "2026-01-01"
+    },
+    {
+      "file": "account-faq.html",
+      "title": "Account FAQ",
+      "authority": "FAQ",
+      "category": "account",
+      "locale": "en-US",
+      "source_uri": "https://help.acme.example/account-faq"
+    },
+    {
+      "file": "smarthub-product-guide.docx",
+      "title": "Acme SmartHub Product Guide",
+      "authority": "PRODUCT_DOCUMENTATION",
+      "category": "products",
+      "product": "SmartHub",
+      "locale": "en-US"
+    },
+    {
+      "file": "support-contact-policy.txt",
+      "title": "Support Contact Policy",
+      "authority": "OFFICIAL_DOCUMENTATION",
+      "category": "support",
+      "locale": "en-US",
+      "effective_date": "2026-02-01"
+    }
+  ]
+}

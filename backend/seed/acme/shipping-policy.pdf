@@ -1,0 +1,146 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 1032 >>
+stream
+BT
+15 TL
+72 740 Td
+T*
+/F2 14 Tf
+(Acme Shipping Policy) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(Effective date: 2026-01-01) Tj
+T*
+/F1 11 Tf
+(This policy explains how Acme ships orders placed on acme.example.) Tj
+T*
+T*
+/F2 14 Tf
+(Order Processing) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(Orders placed before 2:00 p.m. Eastern Time on a business day are processed the same day.) Tj
+T*
+/F1 11 Tf
+(Orders placed after 2:00 p.m. Eastern Time, or on weekends and public holidays, are) Tj
+T*
+/F1 11 Tf
+(processed on the next business day.) Tj
+T*
+T*
+/F2 14 Tf
+(Standard Shipping) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(Standard shipping takes 3-5 business days after your order ships. Standard shipping is free) Tj
+T*
+/F1 11 Tf
+(for orders of $50 or more. Orders under $50 pay a flat standard shipping fee of $5.99.) Tj
+T*
+T*
+/F2 14 Tf
+(Expedited Shipping) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(Expedited shipping takes 1-2 business days after your order ships and costs $14.99.) Tj
+T*
+/F1 11 Tf
+(Expedited shipping is available to addresses in the contiguous United States only.) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 983 >>
+stream
+BT
+15 TL
+72 740 Td
+T*
+/F2 14 Tf
+(International Shipping) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(International shipping is available to Canada, the United Kingdom, the European Union and) Tj
+T*
+/F1 11 Tf
+(Australia. International orders typically arrive within 7-14 business days after they ship.) Tj
+T*
+/F1 11 Tf
+(Customs duties and import taxes are the responsibility of the recipient and are not included) Tj
+T*
+/F1 11 Tf
+(in the shipping fee.) Tj
+T*
+T*
+/F2 14 Tf
+(Order Tracking) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(A tracking number is emailed to you when your order ships. Tracking information can take up) Tj
+T*
+/F1 11 Tf
+(to 24 hours to appear on the carrier website.) Tj
+T*
+T*
+/F2 14 Tf
+(Lost or Damaged Packages) Tj
+T*
+/F1 11 Tf
+/F1 11 Tf
+(If your package has not arrived within 10 business days after the estimated delivery date,) Tj
+T*
+/F1 11 Tf
+(or arrives damaged, contact Acme Support within 30 days of the estimated delivery date so we) Tj
+T*
+/F1 11 Tf
+(can open a carrier claim.) Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Title (Acme Shipping Policy) /Producer (Acme sample generator) >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000001404 00000 n 
+0000001540 00000 n 
+0000002574 00000 n 
+0000002710 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R /Info 9 0 R >>
+startxref
+2795
+%%EOF
